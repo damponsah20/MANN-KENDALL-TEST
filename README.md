@@ -1,2 +1,2 @@
 # MANN-KENDALL-TEST
-Insights into performing the mann kendall test 
+Insights into performing the mann kendall trend test 
